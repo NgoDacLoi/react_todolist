@@ -1,0 +1,9 @@
+.task{
+    margin: 40px;
+}
+.task .font{
+font-weight: 900;
+}
+ul{
+    list-style-type: none;
+}

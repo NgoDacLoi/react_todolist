@@ -1,0 +1,21 @@
+.item{
+    margin: 10px;
+}
+li{
+  border-style: ridge;
+}
+.btn-link{
+    position:absolute;
+    right: 100px;
+}
+.row{
+    display: inline-block;
+}
+.circle{
+margin-right: 10px;
+color: green;
+}
+.dash{
+    margin-right: 10px;
+color:orange;
+}
